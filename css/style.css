@@ -9,5 +9,7 @@ html { width: 100%; }
 
 .TM-3txtboxes-TextBox { height: 200px; overflow: auto; text-align: left; width: 92%; margin: 0 auto;border: 1px solid rgb(67, 143, 243); border-top: 0; padding: 8px;}
 
+.TM-3txtboxes-Top { width: 94%; border: 0 solid #A1B2CF; display: inline-block; margin: 0; padding: 0; text-align: center; background-color: #A1B2CF ; color: white; border-radius: .2em; padding: 15px; font-family: Arial Black; letter-spacing: -.02em; font-size: 1.4em; }
+
 .nav-wrapper { background-color: rgb(111, 111, 223)}
 
