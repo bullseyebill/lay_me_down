@@ -13,3 +13,4 @@ html { width: 100%; }
 
 .nav-wrapper { background-color: rgb(111, 111, 223)}
 
+.TM-3txtboxes-Texttop {height: 200px; overflow: auto; text-align: center; width: 92%; margin: 0 auto;border: 1px solid rgb(67, 143, 243); border-top: 0; padding: 8px;}}
